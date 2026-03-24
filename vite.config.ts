@@ -6,5 +6,5 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   // هذا السطر ضروري جداً لأن اسم المستودع الخاص بك ليس الجذر
-  base: '/Maeensoftware-/',
+  base: '/',
 });
