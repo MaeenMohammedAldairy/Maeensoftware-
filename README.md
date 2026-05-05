@@ -35,11 +35,15 @@ I’m a passionate software engineer who loves building robust, scalable, and in
 
 - **[Maeen Software Platform](https://maeensoftware.vercel.app)**  
   [GitHub Repository](https://github.com/MaeenMohammedAldairy/Maeensoftware-.git)  
-  منصة ويب شخصية تجمع بين الأ��وات البرمجية والسيرة الذاتية، وتبرز مشاريعك وإمكاناتك التقنية بأسلوب حديث وعملي.
+  منصة ويب شخصية تجمع بين الأدوات البرمجية والسيرة الذاتية، وتبرز مشاريعك وإمكاناتك التقنية بأسلوب حديث وعملي.
 
 - **[Bright Stor](https://bright-stor.vercel.app)**  
   [GitHub Repository](https://github.com/MaeenMohammedAldairy/Bright-Stor.git)  
   نظام متقدم لإدارة وتخزين البيانات الرقمية، يتميز بسهولة الاستخدام وكفاءة عالية في الأداء.
+
+- **[Engaz Platform](https://engaz-red.vercel.app)**  
+  [GitHub Repository](https://github.com/MaeenMohammedAldairy/Engaz.git)  
+  منصة متخصصة لإدارة المشاريع والمهام بواجهة سهلة، تركز على زيادة الإنتاجية وتنظيم سير العمل.
 
 ---
 
