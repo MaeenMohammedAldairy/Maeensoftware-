@@ -1,5 +1,6 @@
 import React, { Suspense, useEffect } from 'react';
 import { HashRouter, Routes, Route, useLocation } from 'react-router-dom';
+import { Analytics } from '@vercel/analytics/react';
 import Navbar from './components/Navbar';
 import { Footer } from './components/Footer';
 import SEO from './components/SEO';
@@ -175,6 +176,7 @@ const App: React.FC = () => {
 
           </Routes>
         </Suspense>
+        <Analytics />
       </HashRouter>
     </ProjectProvider>
   );
